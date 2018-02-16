@@ -1,0 +1,16 @@
+﻿## Interface: 11200
+## Title: QuestTranslator for Vanilla Wow
+## Version: 4.01
+## Notes: AddOn displays the translated quest informations.
+## Notes_PL: Dodatek wyswietla przetlumaczone questy.
+## Notes_JP: アドオンは、別のウィンドウで翻訳クエストが表示されます。
+## Author: Platine
+## eMail: platine.wow@gmail.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: QTR_PS, QTR_SAVED
+## SavedVariablesPerCharacter: QTR_PC
+QuestData_it.lua
+QuestList.lua
+QuestTranslator.lua
+QuestTranslatorFrames.xml
